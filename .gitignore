@@ -1,0 +1,7 @@
+/venv
+/__pycache__
+config.py
+/handlers/__pycache__
+/database/__pycache__
+/FSM/__pycache__
+/keyboards/__pycache__
